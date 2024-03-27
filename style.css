@@ -2,12 +2,64 @@
 a {
     text-decoration: none;
     font-size: 18px;
+    color: #e5e7eb;
 }
 
 ul {
     list-style-type: none;
 }
 
-.header {
+.header-logo {
     font-size: 24px;
+    color: #f9faf8;
+}
+
+.info-header {
+    font-size: 36px;
+    font-weight: 800;
+    color: #1f2937;
+}
+
+.top-section {
+    background-color: #1f2937;
+}
+
+.third-section {
+    background-color: #e5e7eb;
+}
+
+.fourth-section, button {
+    background-color: #3882f6;
+}
+
+.hero-header {
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: 800;
+}
+
+.hero-secondary {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.img-with-text {
+    display: flex;
+    font-family: 'Roboto';
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+}
+
+.footer {
+    background-color: #1f2937;
+    color: #e5e7eb;
+}
+
+.author {
+    font-size: 20px;
+    font-weight: 700;
 }
